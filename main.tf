@@ -22,10 +22,10 @@ provider "aws" {
 }
 
 resource "aws_instance" "app_server" {
-  ami           = "ami-05e786af422f8082a"
+  ami           = "ami-00463ddd1036a8eb6"
   instance_type = "t2.micro"
 
   tags = {
-    Name = "Blah"
+    Name = "Jah1c"
   }
 }
