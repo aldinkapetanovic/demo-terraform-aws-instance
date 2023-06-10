@@ -1,3 +1,3 @@
-# learn-terraform-aws-instance
+# demo-terraform-aws-instance
 
 locked
