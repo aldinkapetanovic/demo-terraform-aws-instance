@@ -3,7 +3,7 @@ terraform {
   cloud {
     organization = "jah"
     workspaces {
-      name = "learn-terraform-aws-instance"
+      name = "demo-terraform-aws-instance"
     }
   }
 
